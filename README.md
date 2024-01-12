@@ -50,3 +50,20 @@ Example of a api response
 ```shell
 pip install -r requirements.txt
 ```
+****
+
+## I also want to make you aware that:
+* This was written for educational purpose and pentest only.
+* The author will not be responsible for any damage ..!
+* The author of this tool is not responsible for any misuse of the information.
+* You will not misuse the information to gain unauthorized access.
+* This information shall only be used to expand knowledge and not for
+causing malicious or damaging attacks.
+* Performing any hacks without written permission is illegal ..!
+****
+
+# Contact to coder
+
+* [Instagram](https://www.instagram.com/4.4cq/)
+
+* [Telegram](https://t.me/hamo_back)
