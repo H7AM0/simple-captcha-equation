@@ -45,3 +45,8 @@ Example of a api response
 
 ![Screenshot](Example/Screenshot.png)
 ****
+
+#Install libraries
+```shell
+pip install -r requirements.txt
+```
