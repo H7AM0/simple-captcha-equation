@@ -20,6 +20,6 @@
 * Script I made in python 3.
 * With this tool, create a captcha equation in an image.
 * Gives you the image and the result. 
-* Screipt and API
+* Script and API
   
 ****
