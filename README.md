@@ -21,8 +21,16 @@
 * With this tool, create a captcha equation in an image.
 * Gives you the image and the result. 
 * Script and API
-  
 ****
+
+## main.py
+A script explaining the creation of the captcha and the simple equation
+
+* The captcha is created with the name verification.jpg
+* Print the result of the equation after creating the captcha
+
+Example of a generated captcha
 
 ![Screenshot](Example/verification.jpg)
 ****
+
