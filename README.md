@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ****
 
 ## I also want to make you aware that:
-* This was written for educational purpose and pentest only.
+* This was written for educational purpose only.
 * The author will not be responsible for any damage ..!
 * The author of this tool is not responsible for any misuse of the information.
 * You will not misuse the information to gain unauthorized access.
@@ -64,6 +64,5 @@ causing malicious or damaging attacks.
 
 # Contact to coder
 
-* [Instagram](https://www.instagram.com/4.4cq/)
-
-* [Telegram](https://t.me/hamo_back)
+## * [Instagram](https://www.instagram.com/4.4cq/)
+## * [Telegram](https://t.me/hamo_back)
