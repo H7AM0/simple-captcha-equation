@@ -37,9 +37,9 @@ Example of a generated captcha
 ## api.py
 It is the json API
 
-#It appears:
-*Created captcha link
-*The result of the created equation appears
+# It appears:
+* Created captcha link
+* The result of the created equation appears
 
 Example of a api response
 
