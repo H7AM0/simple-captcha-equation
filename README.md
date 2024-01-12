@@ -43,5 +43,5 @@ It is the json API
 
 Example of a api response
 
-![Screenshot](Example/Screenshot.jpg)
+![Screenshot](Example/Screenshot.png)
 ****
