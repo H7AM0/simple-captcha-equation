@@ -15,10 +15,11 @@
 </p>
 
 
-**Dorks Eye Google Hacking Dork Scraping and Searching Script**
+**Create a simple captcha equation**
 
 * Script I made in python 3.
-* With this tool, you can easily find Google Dorks.
-* Collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
-
+* With this tool, create a captcha equation in an image.
+* Gives you the image and the result. 
+* Screipt and API
+  
 ****
