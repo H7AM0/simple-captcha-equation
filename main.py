@@ -53,6 +53,6 @@ image = image.filter(ImageFilter.BLUR)
 
 # Save the blurred image as "verification.jpg"
 image.save("verification.jpg", "jpeg")
-image.show()
+#image.show()
 # Print the result of the random equation
 print(result)
