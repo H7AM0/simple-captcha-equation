@@ -23,7 +23,7 @@
 * Script and API
 ****
 
-## main.py
+# main.py
 A script explaining the creation of the captcha and the simple equation
 
 * The captcha is created with the name verification.jpg
@@ -34,10 +34,10 @@ Example of a generated captcha
 ![Screenshot](Example/verification.jpg)
 ****
 
-## api.py
+# api.py
 It is the json API
 
-# It appears:
+## It appears:
 * Created captcha link
 * The result of the created equation appears
 
